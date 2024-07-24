@@ -402,7 +402,7 @@ setupCfg:
   launchClaServer: false
 
 asi:
-  replicaCount: 2
+  replicaCount: 1
   
   env:
     jvmOptions:
